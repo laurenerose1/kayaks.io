@@ -1,0 +1,150 @@
+body {
+    
+    font-family: 'Poppins', sans-serif;
+    background-color: #6096ba ;
+    
+
+    
+    
+  }
+  
+ h1, h2, h3, h4, h5 {
+  align-items: center;
+  justify-items: center;
+ }
+
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 10%;
+    color: #6096ba;
+    font-size: 14px;
+  }
+  
+  .navbar p {
+    display: inline-block;
+    padding: 10px 10px;
+  }
+  
+  .main {
+    padding-top: 35px;
+    opacity: 0.9;
+  }
+  
+  .mission {
+    display: flex;
+    height: 200px;
+    width: auto;
+    background-image: url("https://images.unsplash.com/photo-1513875528452-39400945934d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80");
+    padding: 50px 50px;
+    align-items: center;
+    justify-content: center;
+  
+    
+  }
+  
+  .mission .content {
+    margin: auto;
+    background-color: #e7ecef;
+    opacity: .6;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ .tourcontent {
+  align-content: justified;
+    align-items: center;
+ }
+  
+  .tours {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: justified;
+    align-items: center;
+    
+    
+  }
+  
+  .tour {
+    display: inline-block
+    
+
+  }
+  
+  .tour img {
+    margin:auto;
+    width: 300px;
+    padding: 30px 3opx;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  
+  .team {
+    
+    padding: 35px 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    font-size: 18px;
+    color: #e7ecef;}
+  
+  
+   
+  
+  .teammate {
+    padding: 35px 35px;
+    align-items: center;
+   
+
+  }
+   
+  
+  .teammate img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+  }
+  
+  .contact{
+    color: #e7ecef;
+    size: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 35px;
+    
+  }
+  .copyright {
+    padding-top: 5px;
+    color: #274c77;
+    size: 10px;
+    align-items: center;
+    padding: 35px 35px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    
+  }
+
+p {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+  }
